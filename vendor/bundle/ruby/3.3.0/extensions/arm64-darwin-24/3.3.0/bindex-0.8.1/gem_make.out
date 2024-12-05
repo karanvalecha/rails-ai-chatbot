@@ -1,0 +1,18 @@
+current directory: /Users/karanvalecha/projects/rails_ai_chatbot/vendor/bundle/ruby/3.3.0/gems/bindex-0.8.1/ext/skiptrace
+/Users/karanvalecha/.rvm/rubies/ruby-3.3.0/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /Users/karanvalecha/projects/rails_ai_chatbot/vendor/bundle/ruby/3.3.0/gems/bindex-0.8.1/ext/skiptrace
+make DESTDIR\= sitearchdir\=./.gem.20241205-33935-64qfnz sitelibdir\=./.gem.20241205-33935-64qfnz clean
+
+current directory: /Users/karanvalecha/projects/rails_ai_chatbot/vendor/bundle/ruby/3.3.0/gems/bindex-0.8.1/ext/skiptrace
+make DESTDIR\= sitearchdir\=./.gem.20241205-33935-64qfnz sitelibdir\=./.gem.20241205-33935-64qfnz
+compiling cruby.c
+linking shared-object skiptrace/internal/cruby.bundle
+
+current directory: /Users/karanvalecha/projects/rails_ai_chatbot/vendor/bundle/ruby/3.3.0/gems/bindex-0.8.1/ext/skiptrace
+make DESTDIR\= sitearchdir\=./.gem.20241205-33935-64qfnz sitelibdir\=./.gem.20241205-33935-64qfnz install
+/opt/homebrew/opt/coreutils/bin/ginstall -c -m 0755 cruby.bundle ./.gem.20241205-33935-64qfnz/skiptrace/internal
+
+current directory: /Users/karanvalecha/projects/rails_ai_chatbot/vendor/bundle/ruby/3.3.0/gems/bindex-0.8.1/ext/skiptrace
+make DESTDIR\= sitearchdir\=./.gem.20241205-33935-64qfnz sitelibdir\=./.gem.20241205-33935-64qfnz clean

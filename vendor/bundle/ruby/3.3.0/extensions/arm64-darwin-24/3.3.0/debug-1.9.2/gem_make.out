@@ -1,0 +1,19 @@
+current directory: /Users/karanvalecha/projects/rails_ai_chatbot/vendor/bundle/ruby/3.3.0/gems/debug-1.9.2/ext/debug
+/Users/karanvalecha/.rvm/rubies/ruby-3.3.0/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /Users/karanvalecha/projects/rails_ai_chatbot/vendor/bundle/ruby/3.3.0/gems/debug-1.9.2/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20241205-33935-9rpjfi sitelibdir\=./.gem.20241205-33935-9rpjfi clean
+
+current directory: /Users/karanvalecha/projects/rails_ai_chatbot/vendor/bundle/ruby/3.3.0/gems/debug-1.9.2/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20241205-33935-9rpjfi sitelibdir\=./.gem.20241205-33935-9rpjfi
+compiling debug.c
+compiling iseq_collector.c
+linking shared-object debug/debug.bundle
+
+current directory: /Users/karanvalecha/projects/rails_ai_chatbot/vendor/bundle/ruby/3.3.0/gems/debug-1.9.2/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20241205-33935-9rpjfi sitelibdir\=./.gem.20241205-33935-9rpjfi install
+/opt/homebrew/opt/coreutils/bin/ginstall -c -m 0755 debug.bundle ./.gem.20241205-33935-9rpjfi/debug
+
+current directory: /Users/karanvalecha/projects/rails_ai_chatbot/vendor/bundle/ruby/3.3.0/gems/debug-1.9.2/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20241205-33935-9rpjfi sitelibdir\=./.gem.20241205-33935-9rpjfi clean

@@ -1,0 +1,18 @@
+current directory: /Users/karanvalecha/projects/rails_ai_chatbot/vendor/bundle/ruby/3.3.0/gems/racc-1.8.1/ext/racc/cparse
+/Users/karanvalecha/.rvm/rubies/ruby-3.3.0/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /Users/karanvalecha/projects/rails_ai_chatbot/vendor/bundle/ruby/3.3.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20241205-33935-hchnra sitelibdir\=./.gem.20241205-33935-hchnra clean
+
+current directory: /Users/karanvalecha/projects/rails_ai_chatbot/vendor/bundle/ruby/3.3.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20241205-33935-hchnra sitelibdir\=./.gem.20241205-33935-hchnra
+compiling cparse.c
+linking shared-object racc/cparse.bundle
+
+current directory: /Users/karanvalecha/projects/rails_ai_chatbot/vendor/bundle/ruby/3.3.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20241205-33935-hchnra sitelibdir\=./.gem.20241205-33935-hchnra install
+/opt/homebrew/opt/coreutils/bin/ginstall -c -m 0755 cparse.bundle ./.gem.20241205-33935-hchnra/racc
+
+current directory: /Users/karanvalecha/projects/rails_ai_chatbot/vendor/bundle/ruby/3.3.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20241205-33935-hchnra sitelibdir\=./.gem.20241205-33935-hchnra clean

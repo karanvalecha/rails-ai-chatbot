@@ -1,0 +1,18 @@
+current directory: /Users/karanvalecha/projects/rails_ai_chatbot/vendor/bundle/ruby/3.3.0/gems/websocket-driver-0.7.6/ext/websocket-driver
+/Users/karanvalecha/.rvm/rubies/ruby-3.3.0/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /Users/karanvalecha/projects/rails_ai_chatbot/vendor/bundle/ruby/3.3.0/gems/websocket-driver-0.7.6/ext/websocket-driver
+make DESTDIR\= sitearchdir\=./.gem.20241205-33935-id585 sitelibdir\=./.gem.20241205-33935-id585 clean
+
+current directory: /Users/karanvalecha/projects/rails_ai_chatbot/vendor/bundle/ruby/3.3.0/gems/websocket-driver-0.7.6/ext/websocket-driver
+make DESTDIR\= sitearchdir\=./.gem.20241205-33935-id585 sitelibdir\=./.gem.20241205-33935-id585
+compiling websocket_mask.c
+linking shared-object websocket_mask.bundle
+
+current directory: /Users/karanvalecha/projects/rails_ai_chatbot/vendor/bundle/ruby/3.3.0/gems/websocket-driver-0.7.6/ext/websocket-driver
+make DESTDIR\= sitearchdir\=./.gem.20241205-33935-id585 sitelibdir\=./.gem.20241205-33935-id585 install
+/opt/homebrew/opt/coreutils/bin/ginstall -c -m 0755 websocket_mask.bundle ./.gem.20241205-33935-id585
+
+current directory: /Users/karanvalecha/projects/rails_ai_chatbot/vendor/bundle/ruby/3.3.0/gems/websocket-driver-0.7.6/ext/websocket-driver
+make DESTDIR\= sitearchdir\=./.gem.20241205-33935-id585 sitelibdir\=./.gem.20241205-33935-id585 clean
